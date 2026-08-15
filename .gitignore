@@ -1,0 +1,16 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.ipynb_checkpoints/
+.chroma/
+chroma_db/
+*.sqlite
+*.sqlite3
+data/*
+!data/.gitkeep
+.ruff_cache/
+.DS_Store
+.idea/
+rag-udemy-course/
